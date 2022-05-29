@@ -1,4 +1,4 @@
-![Banner](https://cdn.discordapp.com/attachments/980447251644153889/980554000149651526/angryimg_4.png)
+![Banner](https://media.discordapp.net/attachments/739077279551848460/980534012139434044/fond_invite.png)
 
 ## WapyMC 🪙
 No release date is currently planned, but we hope to be able to give you this answer soon, we are working hard on this project which is very important to us but it implies time and reflexion to offer you a quality server.

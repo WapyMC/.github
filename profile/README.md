@@ -9,4 +9,4 @@ As you remember our Practice server which was aborted due to lack of motivation 
 
 We are waiting for you as you are waiting for us 😁
 
-[Click here if you are French](https://github.com/WapyMC/.github/profile/FRENCH_README.md)
+[Click here if you are French](https://github.com/WapyMC/.github/blob/main/profile/FRENCH_README.md)

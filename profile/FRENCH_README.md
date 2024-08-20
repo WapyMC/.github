@@ -1,4 +1,4 @@
-![Banner](https://media.discordapp.net/attachments/739077279551848460/980534012139434044/fond_invite.png)
+![Banner](https://github.com/user-attachments/assets/848e53b3-2a62-42aa-a6cc-ef8b483e1208)
 
 ## WapyMC 🪙
 Aucune date de sortie n'est actuellement prévu actuellement, mais nous esperons pouvoir vous en donné cette réponse bientôt, nous travaillons dur comme fort sur ce projet qui nous tient à coeur mais cela implique du temp et de la reflexion pour vous proposer un serveur de qualité.

@@ -2,12 +2,15 @@
 
 
 ## WapyMC 🪙
-No release date is currently planned, but we hope to be able to give you this answer soon, we are working hard on this project which is very important to us but it implies time and reflexion to offer you a quality server.
 
-We are trying to create a server where we hope you haven't seen any of these new and unique features before on other servers
+We are excited to announce that the development of WapyMC has officially resumed! After a period of reflection and reorganization, we have refocused our efforts to deliver a unique server experience, featuring innovative gameplay elements that you’ve never seen before on other servers.
 
-As you remember our Practice server which was aborted due to lack of motivation by one of our main founders, today we take the torch back to give it a new chance and offer you a PvP Faction server, which will not prevent us from coming back to the base with our Practice server and Mini Game
+We are working hard on this project, and while no release date has been set yet, we hope to provide an update soon. Quality is our top priority, which is why we are taking the necessary time to fine-tune every detail.
 
-We are waiting for you as you are waiting for us 😁
+Our PvP Faction server is currently in development, marking a new chapter in our journey. At the same time, we haven't forgotten our roots: we are also considering reviving our Practice server and Mini Games to complement the overall experience.
+
+Your patience and support mean a lot to us. We can’t wait to see you in the game!
+
+See you soon 😁
 
 [Click here if you are French](https://github.com/WapyMC/.github/blob/main/profile/FRENCH_README.md)

@@ -1,12 +1,14 @@
 ![Banner](https://github.com/user-attachments/assets/848e53b3-2a62-42aa-a6cc-ef8b483e1208)
 
 ## WapyMC 🪙
-Aucune date de sortie n'est actuellement prévu actuellement, mais nous esperons pouvoir vous en donné cette réponse bientôt, nous travaillons dur comme fort sur ce projet qui nous tient à coeur mais cela implique du temp et de la reflexion pour vous proposer un serveur de qualité.
+Nous sommes ravis de vous annoncer que le développement de WapyMC a officiellement repris ! Après une période de réflexion et de réorganisation, nous avons redoublé d'efforts pour vous offrir une expérience unique sur notre serveur, avec des fonctionnalités innovantes que vous n'avez jamais vues ailleurs.
 
-Nous esseyons de vous réaliser un serveur au quel vous n'avez on l'espère vu aucune de ces nouveautées et fonctionnalitées unique auparavent sur d'autres
+Nous travaillons sans relâche sur ce projet, et bien qu'aucune date de sortie ne soit encore planifiée, nous espérons pouvoir vous fournir une réponse très bientôt. La qualité est notre priorité, c'est pourquoi nous prenons le temps nécessaire pour peaufiner chaque détail.
 
-Etant donné que vous vous rappellez de notre serveur Practice qui a été abanndé par manque de motiviation par l'un de nos fondateur principaux, aujourd'hui on reprend le flambeau pour lui donner une nouvelle chance et vous proposer un serveur PvP Faction, qui n'empechera pas par la suite de peut être on l'espère revenir à la base avec notre serveur Practice ainsi que Mini Jeu
+Le serveur PvP Faction est en cours de développement, et il marquera un tournant dans notre aventure. En parallèle, nous n'oublions pas nos racines : nous envisageons également de relancer notre serveur Practice et nos Mini Jeux pour compléter l'expérience.
 
-On vous attend comme vous nous attendez 😁
+Votre patience et votre soutien comptent énormément pour nous. Nous avons hâte de vous retrouver en jeu !
+
+À très bientôt 😁
 
 [Click here if you are English](https://github.com/WapyMC/)
